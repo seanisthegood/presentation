@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Sean Unessay Embeddings",
+      "tensorShape": [31, 384],
+      "tensorPath": "https://raw.githubusercontent.com/seanisthegood/presentation/main/vectors_4.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/seanisthegood/presentation/main/metadata_4.tsv"
+    }
+  ]
+}
